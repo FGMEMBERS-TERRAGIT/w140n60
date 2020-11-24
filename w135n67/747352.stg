@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac -134.873611 67.410278 35.88 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -134.865 67.428333 -127.4 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -134.87156 67.40980 0.00 312.117
+# END dsf2stg
